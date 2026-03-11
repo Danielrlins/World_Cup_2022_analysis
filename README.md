@@ -62,7 +62,6 @@ A análise explora diversas métricas importantes do torneio:
 * Total de gols marcados
 * Média de gols por jogo
 * Artilheiros da competição
-* Ranking das seleções
 * Desempenho ofensivo e defensivo das equipes
 
 Para cada seleção foram calculadas estatísticas como:
@@ -104,7 +103,6 @@ Também foi desenvolvido um **dashboard interativo** com visualizações do torn
 * Total de partidas
 * Total de gols
 * Média de gols por jogo
-* Ranking das seleções
 * Distribuição de gols por partida
 * Artilheiros da competição
 
