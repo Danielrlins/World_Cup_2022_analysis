@@ -120,12 +120,6 @@ Também foi desenvolvido um **dashboard interativo** com visualizações do torn
 pip install -r requirements.txt
 ```
 
-### Executar o dashboard
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 ## 📚 Fonte dos Dados
